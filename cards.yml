@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to project cards relatred local APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@eeazybank.com"
+  onCallSupport:
+    -(555) 555-1234
+    -(555) 523-1345
