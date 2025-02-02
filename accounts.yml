@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to project accounts relatred local APIs"
   contactDetails:
     name: "John Doe - Developer"
-    email: "john@eeazybank.com"
+    email: "{cipher}e80d5cd6cc8840f5e4a650936bedee6e8459fdf9ba980d235b0e63909c8f05d53adea3c66453115944e3a5b5db5330e3"
   onCallSupport:
     -(555) 555-1234
     -(555) 523-1345
